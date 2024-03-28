@@ -52,7 +52,7 @@ def read_qrcode(qr_path,qr_out_path):
 
 
 
-create_rsa_pair('D:/GitHub/Useless-Encrypt-Tool/','final')
-encrypt_data('D:/GitHub/Useless-Encrypt-Tool/test.txt','D:/GitHub/Useless-Encrypt-Tool/final_public_key.pem','D:/GitHub/Useless-Encrypt-Tool/crypted_text.txt')
-decrypt_data('D:/GitHub/Useless-Encrypt-Tool/crypted_text.txt','D:/GitHub/Useless-Encrypt-Tool/final_private_key.pem','D:/GitHub/Useless-Encrypt-Tool/decrypted_text.txt')
-read_qrcode('D:/GitHub/Useless-Encrypt-Tool/final_public_key.png','D:/GitHub/Useless-Encrypt-Tool/qr_public_key.pem')
+#create_rsa_pair('D:/GitHub/Useless-Encrypt-Tool/','final')
+#encrypt_data('D:/GitHub/Useless-Encrypt-Tool/test.txt','D:/GitHub/Useless-Encrypt-Tool/final_public_key.pem','D:/GitHub/Useless-Encrypt-Tool/crypted_text.txt')
+#decrypt_data('D:/GitHub/Useless-Encrypt-Tool/crypted_text.txt','D:/GitHub/Useless-Encrypt-Tool/final_private_key.pem','D:/GitHub/Useless-Encrypt-Tool/decrypted_text.txt')
+#read_qrcode('D:/GitHub/Useless-Encrypt-Tool/final_public_key.png','D:/GitHub/Useless-Encrypt-Tool/qr_public_key.pem')
